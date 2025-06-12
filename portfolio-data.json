@@ -1,0 +1,157 @@
+{
+  "settings": {
+    "name": "Konduru Akhil",
+    "title": "Software Engineer Intern",
+    "location": "India",
+    "summary": "Software Engineer Intern with experience in web application development and problem-solving using various technologies and frameworks.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg",
+    "primaryColor": "#0067c7"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Contact Me",
+          "url": "mailto:konduruakhil1212@gmail.com",
+          "isPrimary": true,
+          "icon": "mail"
+        },
+        {
+          "text": "Download Resume",
+          "url": "#",
+          "isPrimary": false,
+          "icon": "download"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "title": "About Me",
+      "content": "I am a Software Engineer Intern with a passion for developing user-friendly web applications. I have experience in translating client requirements into functional UI/UX components and applying strong problem-solving skills to ensure optimal performance across browsers and devices. I am proficient in maintaining clean, scalable code and following best practices for front-end architecture. I am eager to contribute my skills and learn from experienced professionals.",
+      "skills": {
+        "enabled": true,
+        "title": "Skills",
+        "items": [
+          "Core Java",
+          "SQL (MySQL)",
+          "JavaScript",
+          "HTML/CSS",
+          "Bootstrap",
+          "React Js",
+          "Eclipse",
+          "GitHub",
+          "Visual Studio"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Experience",
+      "items": [
+        {
+          "company": "Digital Nest",
+          "position": "Software Engineer Intern",
+          "period": "May 2023 - June 2023",
+          "description": "Developed responsive, user-friendly web applications, tailored to client needs using HTML, CSS, JavaScript, and Java. Collaborated with clients to gather requirements translated them into functional UI/UX components. Applied strong problem-solving skills to develop, test, and debug features, ensuring optimal performance across browsers and devices. Maintained clean, saleable code and followed best practices for front-end architecture."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "items": [
+        {
+          "title": "Real State Application",
+          "description": "Developed a basic real estate management console application using Java to simulate flat property details and price calculation. Implemented object-oriented principles by creating a Flat class with encapsulated fields and relevant constructors and methods. Designed and implemented a method to dynamically calculate the price of a flat based on square foot and price per square foot.",
+          "tags": [
+            "Java",
+            "OOPS"
+          ],
+          "previewUrl": "#"
+        },
+        {
+          "title": "E-commerce website",
+          "description": "Developed responsive, user-friendly web pages according to client needs using HTML, CSS, JavaScript. Applied strong problem-solving skills to develop, test, and debug features, ensuring optimal performance across browsers and devices. Maintained clean, scalable code and followed best practices for front-end architecture",
+          "tags": [
+            "React Js",
+            "JavaScript",
+            "HTML",
+            "CSS"
+          ],
+          "previewUrl": "#"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vidya Jyothi Institute of Technology",
+          "degree": "Bachelor of Engineering in Computer Science and Engineering",
+          "period": "2018 - 2022"
+        },
+        {
+          "institution": "Narayana Junior College",
+          "degree": "Intermediate",
+          "period": "2016 - 2018"
+        },
+        {
+          "institution": "Bhashyam High School",
+          "degree": "SSC",
+          "period": "2015 - 2016"
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "konduruakhil1212@gmail.com",
+      "phone": "8897686914",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "LinkedIn",
+          "url": "https://www.linkedin.com/in/konduru-akhil/",
+          "icon": "globe"
+        }
+      ]
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "name": "Home",
+        "url": "#hero"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2024 Konduru Akhil. All rights reserved."
+  }
+}
